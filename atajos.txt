@@ -1,0 +1,17 @@
+TAB: El tabulador permite autocompletar lo que se está escribiendo o navegar entre posibles opciones.
+CTRL + C: Sirve para matar un proceso que se esté ejecutando.
+CTRL + Z: Sirve para enviar al segundo plano el proceso que se está ejecutando. Si queremos volver al mismo, bastará con usar el comando fg.
+CTRL + D: Es el equivalente al comando exit, que sirve para cerrar la sesión de un usuario.
+CTRL + L: Este es el equivalente al comando clear y sirve para limpiar la pantalla de terminal. Es bastante útil, sobre todo cuando se ejecuta algún otro software de línea de comandos que no tiene un comando para limpiar pantalla y no se puede insertar el comando clear, como por ejemplo al utilizar el terminal de MySQL.
+CTRL + A: Mueve el cursor al inicio. Es útil si estamos escribiendo un comando largo y queremos corregir algo del inicio.
+CTRL + E: Mueve el cursor al final. De utilidad si queremos añadir algo al final del comando de forma rápida.
+CTRL + U: Con este atajo se borra la línea entera, independientemente de donde esté el cursor.
+CTRL + K: De esta forma conseguimos borrar desde la posición del cursor hasta el final de la línea.
+CTRL + W: Sirve para borrar la palabra que esté justo antes del cursor, o bien borra todas las letras desde la posición en la que está el mismo hasta el inicio de la palabra anterior.
+CTRL + Y: Permite deshacer el último borrado que se ha realizado.
+CTRL + R: Permite buscar dentro del historial de comandos que se han introducido. Es útil en caso de no recordar un comando que se ha introducido o uno que sea excesivamente largo, así se puede recuperar sin tener que volver a escribirlo. Cada vez que se pulsa CTRL + R la búsqueda va un paso más atrás.
+CTRL + G: Para salir de la búsqueda.
+CTRL + SHIFT + C: Sirve para copiar texto seleccionado en la terminal.
+CTRL + SHIFT + V: Permite pegar el texto copiado en la terminal.
+CTRL + S: De esta forma podemos pausar lo que se está imprimiendo por pantalla. Es útil para poder leer algo del texto que aparece durante una instalación, por ejemplo.
+CTRL + Q: Para reanudar la impresión por pantalla que se había pausado.
