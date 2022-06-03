@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecerita
 <<<<<<< HEAD
     text-align: left;
     font-family: "Courier";
@@ -34,7 +38,4 @@ body{
 }
 #container h1{
     font-size: 20px;
-}
-#post {
-    font-family: 'Lucida Sans';
 }
